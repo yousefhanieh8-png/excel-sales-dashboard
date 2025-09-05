@@ -52,7 +52,7 @@ The dataset contains transaction-level details such as product lines, unit price
 ---
 
 ## 📷 Dashboard Preview
-![S](https://github.com/user-attachments/assets/1ecb6cc2-2b6b-48c4-b473-14944e3570e0)
+![Dashboard](https://github.com/user-attachments/assets/1ecb6cc2-2b6b-48c4-b473-14944e3570e0)
 
 ---
 
